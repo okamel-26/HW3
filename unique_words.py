@@ -12,7 +12,7 @@ def count_unique_words(great_gatsby_plain_text):
         print(f"Error: {great_gatsby_plain_text} not found.")
         return 0
 
-# File names for the books (update with actual file paths)
+# File names for the books
 book1 = "great_gatsby_plain_text"
 book2 = "tales_of_secret_egypt_plain_text"
 
